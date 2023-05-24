@@ -13,3 +13,10 @@ These apples are a smooth yellow and are just the right amount of sweet.
 These apples are sweet and are very popular. They can range in red and yellow patches in their skin and have a crisp taste to them, hence their name!
 ![Image of Honneycrisp Apples](https://www.google.com/url?sa=i&url=https%3A%2F%2Fencrypted-tbn3.gstatic.com%2Flicensed-image%3Fq%3Dtbn%3AANd9GcT7Tu9z6gSNEhNVzMXBxlLwlQ_7i1n9oenrTJImS8Od0545aD6j_OSHQxjiMZ5eiJgBPsE_xVV3T09u_DM&psig=AOvVaw3BGuNVegmsW3w36838CXGk&ust=1685047272504000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOClvcTojv8CFQAAAAAdAAAAABAE)
 
+### Code Example
+
+```
+public static void (String args[]) {
+  System.out.println("Apples are cool!");
+}
+```
